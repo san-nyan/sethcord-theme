@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "author": "paw~",
     "license": "None",
-    "updater": "https:\/\/github.com\/san-nyan\/sethcord-theme\/blob\/main\/sethcord-theme.json"
+    "updater": "https:\/\/raw.githubusercontent.com\/san-nyan\/sethcord-theme\/refs\/heads\/main\/Updater\/sethcord-theme.json"
   },
   "simple_colors": {
     "background": -16119029,
