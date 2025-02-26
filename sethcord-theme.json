@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "name": "Sethcord",
+    "version": "1.0.0",
+    "author": "paw~",
+    "license": "None",
+    "updater": "https://github.com/san-nyan/sethcord-theme/blob/main/sethcord-theme.json"
+  },
+  "simple_colors": {
+    "background": -16119029,
+    "background_secondary": -16777216,
+    "active_channel": -13421773,
+    "input_background": -12566464,
+    "accent": -2236963,
+    "statusbar": -14474461
+  },
+  "background": {},
+  "fonts": {
+    "*": "https://fonts.gstatic.com/s/notosansgothic/v16/TuGKUUVzXI5FBtUq5a8bj6wRbzxTJPXy03FQ.woff2"
+  },
+  "colors": {},
+  "drawableTints": {}
+}
