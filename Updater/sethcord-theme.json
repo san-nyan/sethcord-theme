@@ -1,7 +1,7 @@
 {
   "manifest": {
     "name": "Sethcord",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "paw",
     "license": "None",
     "updater": "https:\/\/raw.githubusercontent.com\/san-nyan\/sethcord-theme\/refs\/heads\/main\/Updater\/sethcord-theme.json"
@@ -16,7 +16,8 @@
   },
   "background": {},
   "fonts": {
-    "*": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-ExtraLight.ttf"
+    "*": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-ExtraLight.ttf",
+    "ginto_bold": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-SemiBold.ttf"
   },
   "colors": {},
   "drawableTints": {}
