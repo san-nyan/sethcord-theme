@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "author": "paw~",
     "license": "None",
-    "updater": "https://github.com/san-nyan/sethcord-theme/blob/main/sethcord-theme.json"
+    "updater": "https:\/\/github.com\/san-nyan\/sethcord-theme\/blob\/main\/sethcord-theme.json"
   },
   "simple_colors": {
     "background": -16119029,
@@ -16,7 +16,7 @@
   },
   "background": {},
   "fonts": {
-    "*": "https://fonts.gstatic.com/s/notosansgothic/v16/TuGKUUVzXI5FBtUq5a8bj6wRbzxTJPXy03FQ.woff2"
+    "*": "https:\/\/fonts.gstatic.com\/s\/notosansgothic\/v16\/TuGKUUVzXI5FBtUq5a8bj6wRbzxTJPXy03FQ.woff2"
   },
   "colors": {},
   "drawableTints": {}
