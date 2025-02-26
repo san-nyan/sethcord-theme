@@ -16,8 +16,12 @@
   },
   "background": {},
   "fonts": {
-    "*": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-ExtraLight.ttf",
-    "ginto_bold": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-SemiBold.ttf"
+    "whitney_medium": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-Medium.ttf",
+    "whitney_semibold": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-SemiBold.ttf",
+    "whitney_bold": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-Bold.ttf",
+    "ginto_medium": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-Medium.ttf",
+    "ginto_bold": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-Bold.ttf",
+    "ginto_regular": "https:\/\/github.com\/san-nyan\/sethcord-theme\/raw\/refs\/heads\/main\/Fonts\/GothicA1-ExtraLight.ttf"
   },
   "colors": {},
   "drawableTints": {}
